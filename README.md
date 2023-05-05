@@ -25,6 +25,8 @@
 ## 06: animate 100 shapes
 - start @ 1:36:10 => [link](https://youtu.be/GFO_txvwK_c?t=96m10s)
 - end @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
+- demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-06/)
+- code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-06)
 
 ## 07: show sprite
 - start @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
