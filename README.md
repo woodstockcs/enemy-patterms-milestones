@@ -24,3 +24,6 @@
 - start @ 1:36:10 => [link](https://youtu.be/GFO_txvwK_c?t=96m10s)
 - end @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
 
+## 7: add image
+- start @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
+- end @ 1:46:07 => [link](https://youtu.be/GFO_txvwK_c?t=106m07s)
