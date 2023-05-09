@@ -14,4 +14,4 @@ enemy1={
 function animate(){
   ctx.fillRect(enemy1.x, enemy1.y, enemy1.width, enemy1.heigth);
 }
-
+animate();
