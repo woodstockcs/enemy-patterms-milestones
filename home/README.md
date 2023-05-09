@@ -1,4 +1,4 @@
-## 00: initial
+## 00: files
 
 ## 01: draw canvas
 - start @ 1:25:33 => [link](https://youtu.be/GFO_txvwK_c?t=85m33s)
