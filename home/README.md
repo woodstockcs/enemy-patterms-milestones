@@ -60,3 +60,9 @@
 
 ## 08: animate sprite
 
+## procedure
+#### create animated gif
+1. on chromebook, ctrl+shift+boxBarBar to record video of part of screen. it's saved as webm.
+2. generate palette with `ffmpeg -y -i FILENAME.webm -vf palettegen palette.png`
+3. convert with `ffmpeg -y -i FILENAME.webm -i palette.png -filter_complex paletteuse -r 10 FILENAME_TMP.gif`
+4. optimize and resize with `gifsicle -O3 FILENAME_TMP.gif --resize-width 150 -o FILENAME.gif`
