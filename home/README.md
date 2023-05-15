@@ -46,7 +46,7 @@
 - demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-06/)
 - code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-06)
 
-![100 black squares in random positions](wcs-em-06.png)
+![100 black squares, moving](wcs-em-06.png)
 
 ## 07: show sprite
 - start @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
@@ -54,7 +54,7 @@
 - demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-06/)
 - code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-06)
 
-![100 black bat images in random positions](wcs-em-07.png)
+![100 black bat images, moving](wcs-em-07.png)
 
 
 ## 08: animate sprite
