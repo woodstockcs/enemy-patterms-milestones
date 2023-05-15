@@ -54,6 +54,7 @@
 - demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-06/)
 - code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-06)
 
+[100 black bat images, moving](https://github.com/woodstockcs/enemy-patterns/assets/7727226/6e91d0ff-87da-454e-b5ca-bdffb7ba8fbc)
 ![100 black bat images, moving](wcs-em-07.png)
 
 
