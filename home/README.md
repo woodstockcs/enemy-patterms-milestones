@@ -51,15 +51,19 @@
 ## 07: show sprite
 - start @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
 - end @ 1:46:07 => [link](https://youtu.be/GFO_txvwK_c?t=106m07s)
-- demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-06/)
-- code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-06)
+- demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-07/)
+- code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-07)
 
 ![100 black bat images, moving](https://github.com/woodstockcs/enemy-patterns/assets/7727226/d817c62c-9ca8-45d8-a716-8985c7597e7d)
 
 
 
 ## 08: animate sprite
-
+- start @ 1:46:07 => [link](https://youtu.be/GFO_txvwK_c?t=106m07s)
+- end @ 1:51:45 => [link](https://youtu.be/GFO_txvwK_c?t=111m45s)
+- demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-08/)
+- code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-08)
+- 
 ## procedure
 #### create animated gif
 1. on chromebook, ctrl+shift+boxBarBar to record video of part of screen. it's saved as webm.
