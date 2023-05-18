@@ -36,7 +36,7 @@
 - start @ 1:34:17 => [link](https://youtu.be/GFO_txvwK_c?t=94m17s)
 - end @ 1:36:10 => [link](https://youtu.be/GFO_txvwK_c?t=96m10s)
 - demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-05/)
-- code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-05)
+- TODO: code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-05)
 
 ![one black square, moving](wcs-em-05.png)
 
@@ -46,7 +46,7 @@
 - demo => [link](https://woodstockcs.github.io/enemy-patterns/milestone-06/)
 - code => [link](https://github.com/woodstockcs/enemy-patterns/tree/main/milestone-06)
 
-![100 black squares, moving](wcs-em-06.png)
+![100 black squares, moving](https://github.com/woodstockcs/enemy-patterns/assets/7727226/0bd425d6-10e1-4132-9409-db0379ad862c)
 
 ## 07: show sprite
 - start @ 1:40:50 => [link](https://youtu.be/GFO_txvwK_c?t=100m50s)
