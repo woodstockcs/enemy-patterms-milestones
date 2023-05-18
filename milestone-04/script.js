@@ -3,7 +3,7 @@ const ctx = canvas.getContext("2d");
 const CANVAS_WIDTH = (canvas.width = 300);
 const CANVAS_HEIGHT = (canvas.height = 500);
 
-class Enemy = {
+class Enemy {
   this.x: 10;
   this.y: 50;
   this.width: 100;
